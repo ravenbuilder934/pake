@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "pake:block/sweetberrypie"
+    },
+    "bites=1": {
+      "model": "pake:block/sweetberrypie_slice1"
+    },
+    "bites=2": {
+      "model": "pake:block/sweetberrypie_slice2"
+    },
+    "bites=3": {
+      "model": "pake:block/sweetberrypie_slice3"
+    },
+    "bites=4": {
+      "model": "pake:block/sweetberrypie_slice4"
+    },
+    "bites=5": {
+      "model": "pake:block/sweetberrypie_slice5"
+    },
+    "bites=6": {
+      "model": "pake:block/sweetberrypie_slice6"
+    }
+  }
+}

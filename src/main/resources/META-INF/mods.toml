@@ -27,7 +27,7 @@ displayName="Pake" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 # logoFile="minecolonies.png" #optional
 # A text field displayed in the mod UI
-credits="The albums Nevermind (Nirvana), Garage Inc. (Metallica), and Superunknown (Soundgarden), which I listened to endlessly while creating this." #optional
+credits="Motörhead, Metallica, Nirvana, and Soundgarden, for making excellent music." #optional
 # A text field displayed in the mod UI
 authors="ravenbuilder934" #optional
 # The description text for the mod (multi-line!) (#mandatory)
